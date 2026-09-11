@@ -24,11 +24,19 @@ The proposed study compares organic and conventional corn fields and integrates 
 - Repeated over 3 growing seasons
 - Soil composite sampling from 15–20 cores per field and time point
 
+## Study Design Overview
+
+![Study design overview](figures/study_design_overview.png)
+
+This figure summarizes the proposed sampling framework, including the Nebraska study region, organic and conventional field comparison, seasonal sampling schedule, and integration of multi-omics and environmental data.
+
 ## Multi-Omics Workflow
 
 ## Workflow Diagram
 
 ![Soil microbiome workflow](figures/soil_microbiome_workflow_diagram.png)
+
+This workflow diagram outlines the proposed analysis pipeline from field sampling and DNA/RNA extraction through sequencing, read processing, taxonomic and functional profiling, multi-omics integration, and Random Forest yield prediction.
 
 ### Metagenomics
 - DNA extraction
@@ -99,3 +107,10 @@ Bioinformatics • Metagenomics • Metatranscriptomics • Multi-omics Integrat
 ## Authors
 
 Group project developed by Cory Spern, Dannica Wallace, Xuanyue Zhang, and Kaitlyn Schisler.
+
+## Repository Contents
+
+- `docs/` — study-design summaries and supporting documentation
+- `workflow/` — description of the proposed bioinformatics pipeline
+- `figures/` — workflow and study-design visuals
+- `references/` — selected references supporting the project design and methods
