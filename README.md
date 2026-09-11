@@ -26,6 +26,10 @@ The proposed study compares organic and conventional corn fields and integrates 
 
 ## Multi-Omics Workflow
 
+## Workflow Diagram
+
+![Soil microbiome workflow](figures/soil_microbiome_workflow_diagram.png)
+
 ### Metagenomics
 - DNA extraction
 - Illumina shotgun sequencing
